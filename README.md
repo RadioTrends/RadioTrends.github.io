@@ -11,7 +11,7 @@ A través de nuestra plataforma web, las radioemisoras podrán disfrutar del ser
 
 Los auditores de nuestra plataforma colaboran a través de sus _smartphones_ de manera totalmente anónima y privada, ofreciendo sus patrones de radioescucha a cambio de atractivos beneficios. Por otro lado, aseguramos la fidelidad de la información recopilada mediante avanzadas técnicas de inteligencia artificial.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f4TxrZv_kKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### ¿Quiénes somos?
 RadioTrends es un equipo de tres cofundadores, ejecutando la idea a partir de la que nace el proyecto con novedosas técnicas computacionales. Este proyecto de alto impacto está en etapa semilla, buscando financiamento activamente.
