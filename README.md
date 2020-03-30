@@ -24,4 +24,4 @@ RadioTrends es un equipo de tres cofundadores, ejecutando la idea a partir de la
 
 ### ¡Contáctanos!
 
-Nos encantaría conversar contigo para ver cómo RadioTrends puede usarse para tus necesidades.
+Nos encantaría conversar contigo para ver cómo RadioTrends puede usarse para tus necesidades, escríbenos a [radiotrends@cerdini.cl](mailto:radiotrends@cerdini.cl).
