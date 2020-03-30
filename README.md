@@ -15,9 +15,9 @@ Los auditores de nuestra plataforma colaboran a través de sus _smartphones_ de 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f4TxrZv_kKs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Detalle por programas](https://raw.githubusercontent.com/RadioTrends/RadioTrends.github.io/master/s1.png)
+[<ins>Detalle por programas</ins>](https://raw.githubusercontent.com/RadioTrends/RadioTrends.github.io/master/s1.png)
 
-[Detalle por productos](https://raw.githubusercontent.com/RadioTrends/RadioTrends.github.io/master/s2.png)
+[<ins>Detalle por productos</ins>](https://raw.githubusercontent.com/RadioTrends/RadioTrends.github.io/master/s2.png)
 
 ### ¿Quiénes somos?
 RadioTrends es un equipo de tres cofundadores, ejecutando la idea a partir de la que nace el proyecto con novedosas técnicas computacionales. Este proyecto de alto impacto está en etapa semilla, buscando financiamento activamente.
