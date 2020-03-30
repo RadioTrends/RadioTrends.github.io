@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+![portada](PortadaRT.png)
 
-You can use the [editor on GitHub](https://github.com/RadioTrends/RadioTrends.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+RadioTrends es una tecnología vanguardista que ofrece estadísticas de audiencia en vivo a radioemisoras a lo largo de todo Chile y el mundo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ¿Para qué sirve?
+Nuestros clientes contarán con múltiples indicadores de consumo que destacan por su fidelidad y disponibilidad _on demand_. Esto permitirá la toma de decisiones ejecutivas con una precisión sin precedentes en la industria radial, pues nunca antes ha sido más fácil y valioso comprender cómo ciertos programas, comerciales o anuncios son percibidos por la audiencia.
 
-### Markdown
+### ¿Cómo funciona?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A través de nuestra plataforma web, las radioemisoras podrán disfrutar del servicio al obtener en sus _dashboards_ no sólo el consumo instantáneo e histórico que nuestro sistema reporte, sino que además apreciarán variadas estadísticas respecto a los horarios de escucha o programas más populares, el desempeño de su competencia, y la detección de fuga de auditores, entre otras. 
 
-```markdown
-Syntax highlighted code block
+Los auditores de nuestra plataforma colaboran a través de sus _smartphones_ de manera totalmente anónima y privada, ofreciendo sus patrones de radioescucha a cambio de atractivos beneficios. Por otro lado, aseguramos la fidelidad de la información recopilada mediante avanzadas técnicas de inteligencia artificial.
 
-# Header 1
-## Header 2
-### Header 3
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Bulleted
-- List
+### ¿Quiénes somos?
+RadioTrends es un equipo de tres cofundadores, ejecutando la idea a partir de la que nace el proyecto con novedosas técnicas computacionales. Este proyecto de alto impacto está en etapa semilla, buscando financiamento activamente.
 
-1. Numbered
-2. List
+### ¡Contáctanos!
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RadioTrends/RadioTrends.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Nos encantaría conversar contigo para ver cómo RadioTrends puede usarse para tus necesidades.
