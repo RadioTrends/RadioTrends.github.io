@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+
+github:
+  home_url: https://radiotrends.github.io
+  news_url: https://radiotrends.github.io/news.html
+  team_url: https://radiotrends.github.io/team.html
+  demo_url: https://radiotrends.github.io/estadisticas.html
